@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Skákaná">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JAR-file/Skákaná.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
