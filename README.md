@@ -1,4 +1,5 @@
-![](media/b80172101423ac58a2d996f3dd826da9.emf)**ŽILINSKÁ UNIVERZITA V ŽILINE**
+![image](https://github.com/Davone2564/Skakana_hra/assets/45235000/5a48b2b5-96dc-4f39-868d-276b4a933ccf)
+**ŽILINSKÁ UNIVERZITA V ŽILINE**
 
 **FAKULTA RIADENIA A INFORMATIKY**
 
