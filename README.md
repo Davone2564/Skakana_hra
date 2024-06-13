@@ -15,6 +15,10 @@ Dávid Mičo 5ZYI18
 
 Ako zadanie semestrálnej práce som si vybral stolovú hru **Skákaná**. Pri semestrálnej práci som riešil najmä problém ako vyriešiť dvojskok a trojskok jednej figúrky. Taktiež som si vyhľadal ako si môžem vytvoriť ľubovoľný Unicode znak ako objekt a nakresliť ho na plátno. Potreboval som totiž pomocné súradnice na jednoduchšie zadávanie súradníc používateľom do dialógového okna. V triede Aplikacia som riešil ako najefektívnejšie využiť už naprogramované triedy pri chode celého programu.
 
+**UML DIAGRAM**
+![image](https://github.com/Davone2564/Skakana_hra/assets/45235000/af2cb473-950e-4f71-a426-92c5f330b382)
+
+
 **TRIEDY**
 
 Trieda **Policko** obsahuje:
